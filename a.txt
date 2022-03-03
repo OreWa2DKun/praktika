@@ -1,4 +1,6 @@
 1qqqq
+<<<<<<< HEAD
 2qqqq
 2qqqq
-
+=======
+>>>>>>> parent
